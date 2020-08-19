@@ -1,7 +1,5 @@
 #friends-display-link {
   display: block;
   text-align: center;
-  position: relative;
-  top: 100px;
   background-color: #fafafa;
 }
